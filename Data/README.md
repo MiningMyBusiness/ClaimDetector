@@ -1,7 +1,6 @@
 # Details on data files 
 
 ### CitationNeeded.pkl
-A pandas dataframe containing clauses and sentences that need citations. Scraped from Wikipedia. 
-
+A pandas dataframe containing clauses and sentences from Wikipedia that need citations.
 ### NotAClaim.pkl
-A pandas dataframe containing clauses and sentences that do NOT need citations. 
+A pandas dataframe containing clauses and sentences from Wikipedia that do NOT need citations. 
