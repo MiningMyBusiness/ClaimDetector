@@ -1,7 +1,7 @@
 # Details on code files 
 
 ### Master.py
-The master run file that runs all relevant code files in order. The output of each code file is the input for the next file in that runs. 
+The master run file that runs all relevant code files in order. The output of each code file is the input for the next file that runs. 
 
 ### featureExtract.py
 This file reads in two data files, one of which contains a data frame with clauses or sentences that need citations and the other contains a data frame with sentences that do not need citations. It filters the words by parts of speech and saves new data files which contain the filtered sentences and the unique words and parts of speech in the dataset. 
