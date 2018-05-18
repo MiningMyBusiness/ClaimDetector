@@ -1,6 +1,8 @@
 # Large files
 *.pkl
 *.npy
+~CitationNeeded.pkl
+~NotAClaim.pkl
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
